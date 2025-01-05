@@ -10,3 +10,4 @@ redis
 openjdk:8
 openjdk:17
 openjdk:11
+elasticsearch:7.12.1
